@@ -14,8 +14,8 @@ And more...
 
 ### My GitHub stats:
 
-![Ayka's GitHub followers](https://img.shields.io/github/followers/sa34t)
-![Ayka's GitHub stars](https://img.shields.io/github/stars/sa34t)
-![Ayka's GitHub sponsors](https://img.shields.io/github/sponsors/sa34t)
+![Ayka's GitHub followers](https://img.shields.io/github/followers/metixdsc)
+![Ayka's GitHub stars](https://img.shields.io/github/stars/metixdsc)
+![Ayka's GitHub sponsors](https://img.shields.io/github/sponsors/metixdsc)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sa34t&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=metixdsc&theme=dark&show_icons=true&hide_border=true&layout=compact)
