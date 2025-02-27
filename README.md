@@ -1,4 +1,4 @@
-# Hi there, I'm [sa34t](perfhost.fr 'Fuyza\'s Discord profile') 👀
+# Hi there, I'm [Metix](perfhost.fr 'Fuyza\'s Discord profile') 👀
 
 In life, I am :
 - a French 🥐 ;
